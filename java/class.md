@@ -128,3 +128,5 @@ It is possible to override this methode in the childClass :
 ## Polymorphism
 
 
+## Composition
+
