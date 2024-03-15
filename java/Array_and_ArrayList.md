@@ -1,4 +1,4 @@
-### ArrayList
+# ArrayList
 
 
 
@@ -13,7 +13,7 @@
 
 
 
-### array
+# array
 
 
 ## The `for-each` Loop
