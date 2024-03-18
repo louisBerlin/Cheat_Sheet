@@ -116,7 +116,9 @@ and also in the child class with super.
 
 ## Override 
 
-It is possible to override this methode in the childClass : 
+It is possible to rewrite and modify the methods/functions of the parent class, this is called "override". 
+Example :
+
 ```java
    @Override
     public void makeNoise() {
