@@ -37,6 +37,25 @@ public class Square implements Shape {
 
 
 
+
+##  Can I use polymorphism with interface in Java ?
+
+ Yes, interfaces allow us to define polymorphism in a declarative way, unrelated to implementation
+```java
+public class Main {
+    public static void main(String[] args) {
+        Shape circle = new Circle(5.0); // Erstelle ein Circle-Objekt über das Shape-Interface
+        Shape square = new Square(4.0); // Erstelle ein Square-Objekt über das Shape-Interface
+        
+    }   
+}
+
+
+```
+
+
+
+
 ## How many classes can you implement in Java ?
 
 There are no restrictions on the number of classes that can be present in one Java program. 
