@@ -1,6 +1,7 @@
-### !!! All variable in a Record are Immutability ("final") !!!
-### !!! It can not get "Inheritence"                        !!!
-### !!! Come with java 14                                   !!!
+### ** All variable in a Record are Immutability ("final") **
+### ** Constructor, getters, equals, hashCode, and toString are automatically generated **
+### ** It can not get "Inheritence"                        **
+### ** Come with java 14                                   **
 
 
 ## Creating and Using a Record
