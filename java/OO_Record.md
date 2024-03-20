@@ -1,4 +1,6 @@
 ## !!! All variable in a Record are Immutability ("final") !!!
+## !!! It can not get "Inheritence" !!!
+
 
 ## Creating and Using a Record
 
