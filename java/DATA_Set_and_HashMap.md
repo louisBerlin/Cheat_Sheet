@@ -1,6 +1,6 @@
 # SET
 
-### no duplicate values 
+### ** cannot contain duplicate values **
 
 ```java
 Set<String> fruits = new HashSet<>();
@@ -23,6 +23,8 @@ fruits.remove("Banana");
 
 
 # Map
+
+### ** Map< KEY, VALUE > **
 
 ```java
 Map<String, Integer> studentScores = new HashMap<>();
