@@ -39,8 +39,10 @@ commande :
 - Java main.java -> executer un document java  
 
 
+## process
 
-
+- top -> to contain the active list of all processes
+- kill ?
 
 
 
