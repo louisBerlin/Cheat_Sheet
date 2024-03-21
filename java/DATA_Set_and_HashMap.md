@@ -1,5 +1,7 @@
 # SET
 
+### no duplicate values 
+
 ```java
 Set<String> fruits = new HashSet<>();
 
