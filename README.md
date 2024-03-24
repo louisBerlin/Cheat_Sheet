@@ -25,7 +25,11 @@
 ## Terminal
 - [Terminal-Shall](https://github.com/louisBerlin/Java_Cheat_Sheet/blob/main/Terminal-Shall.md)
 
-## IntelliJ
+## IntelliJ IDE
+
+- [IntelliJ IDE MAC](https://github.com/louisBerlin/Cheat_Sheet/blob/main/IntelliJ%20IDE%20MAC.md)
+
+
 
 
 ## JS / TS Index
