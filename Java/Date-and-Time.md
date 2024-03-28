@@ -1,5 +1,6 @@
 # Date with java.time
 
+## Initialisation
 
 ```java
 
@@ -33,7 +34,7 @@ Instant : 2024-03-27T13:29:09.002759Z
 Process finished with exit code 0
 ```
 
-## converstion 
+## Converstion in differante Format  
 ```java
         //Unwandlung Instant in LocalDateTime
         ZoneId zoneId = ZoneId.of("Europe/Berlin");   // ZoneId.systemDefault()
@@ -61,4 +62,20 @@ Umgewandelt mit Formatter : Wednesday  27.Mar.2024  : 14:52:45:957311000
 
 Process finished with exit code 0
 
+```
+
+## Differance between two hours
+```java
+     //Errechnen der Diff. zwichen zwei Zeitpunkten
+        LocalDateTime start = LocalDateTime.of(2024,1,12,9,10,0);
+        LocalDateTime finish = LocalDateTime.of(2024,2,12,11,0,0);
+
+        long hoursBetween = ChronoUnit.HOURS.between(start,finish);
+        System.out.println(hoursBetween);
+```
+Answer : 
+```
+745
+
+Process finished with exit code 0
 ```
