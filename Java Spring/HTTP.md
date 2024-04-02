@@ -31,6 +31,14 @@ https://google.com/search?q=catmemes
 - `PUT`: Used to update existing resources.
 - `DELETE`: Used to delete resources on the server.
 
+## html documentation
+
+<img width="1007" alt="Screenshot 2024-04-02 at 10 30 45" src="https://github.com/louisBerlin/Cheat_Sheet/assets/80892116/4ef76745-3a2b-493e-aab4-03ecc68561a2">
+
+
+- [HTML Status](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
+- [MDN Tutorial on HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
+
 ## Resources
 
 - [Selfhtml documentation on HTTP](https://wiki.selfhtml.org/wiki/HTTP/Anfragemethoden)
