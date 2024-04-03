@@ -49,6 +49,5 @@ String city = cityName.orElse("Unbekannte Stadt");
 ```
 
 ## Resources
-- [Java Enum Documentation](https://docs.oracle.com/en/java/javase/16/docs/api/java.base/java/lang/Enum.html)
 - [Java Optional Documentation](https://docs.oracle.com/en/java/javase/16/docs/api/java.base/java/util/Optional.html)
 - [Guide to Optional in Java](https://www.baeldung.com/java-optional)
