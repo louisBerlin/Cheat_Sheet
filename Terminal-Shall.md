@@ -42,6 +42,7 @@ commande :
 ## process
 
 - top -> to contain the active list of all processes
+- lsof -n -i4TCP:8080 -> find process using port 8080
 - kill ?
 
 
