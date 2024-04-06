@@ -7,7 +7,7 @@
 
 ## Java
 
-- [Data.1-> Variable]
+- [Data.1-> Variable](https://github.com/louisBerlin/Cheat_Sheet/blob/main/Java/Data.1-%3E%20Variable)
 - [Data.2-> Variable BigDecimal.md]
 - [Data.3-> Array and ArrayList.md]
 - [Data.4-> Set and HashMap.md]
