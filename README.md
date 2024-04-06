@@ -3,7 +3,30 @@
 
 
 
+
+
 ## Java
+
+- [Data.1-> Variable]
+- [Data.2-> Variable BigDecimal.md]
+- [Data.3-> Array and ArrayList.md]
+- [Data.4-> Set and HashMap.md]
+- [Data.5-> Date and Time.md]
+- [Data.6-> Optional.md]
+- [Data.7-> Streams.md]
+- [Exception.md]
+- [OO.1-> Class and Object.md]
+- [OO.2-> Interface.md]
+- [OO.3-> Record.md]
+- [OO.4-> Enum.md]
+- [OO.5-> Lombok.md]
+- [Test.1-> JUnit 5 .md]
+- [Test.2-> Parametrisierte_Test]
+
+ 
+hello
+
+
 - [OO_Class_and_Object](https://github.com/louisBerlin/Java_Cheat_Sheet/blob/main/Java/OO_Class_and_Object.md)
 - [OO_Interface](https://github.com/louisBerlin/Java_Cheat_Sheet/blob/main/Java/OO_Interface.md)
 - [OO_Record](https://github.com/louisBerlin/Java_Cheat_Sheet/blob/main/Java/OO_Record.md)
