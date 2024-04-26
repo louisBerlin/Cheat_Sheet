@@ -7,7 +7,8 @@ ___
 ### Installation   
 ___ 
 
-1 > Download docker on docker.com ans instal 
+- 1 > Download and install Docker at docker.com 
+-  2 > Open it <img width="1268" alt="Screenshot 2024-04-26 at 09 46 10" src="https://github.com/louisBerlin/Cheat_Sheet/assets/80892116/dceaf5e3-87eb-4743-8067-bfc997a48f35">
 
 ___
 ### Containers and Images  
@@ -53,3 +54,7 @@ ___
 - [IntelliJ Docker Integration](https://www.jetbrains.com/help/idea/docker.html): Information on integrating Docker with IntelliJ IDEA.
 - [Docker explained by Coderized](https://youtu.be/J0NuOlA2xDc?si=4SRbIaJJ_l1uUrJa)
 ```
+
+
+
+
