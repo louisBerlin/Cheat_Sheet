@@ -18,12 +18,12 @@
 ## Java
 
 - [Data.1-> Variable](https://github.com/louisBerlin/Cheat_Sheet/blob/main/Java/Data.1-%3E%20Variable)
-- [Data.2-> Variable BigDecimal.md]
-- [Data.3-> Array and ArrayList.md]
-- [Data.4-> Set and HashMap.md]
-- [Data.5-> Date and Time.md]
-- [Data.6-> Optional.md]
-- [Data.7-> Streams.md]
+- [Data.2-> Variable BigDecimal.md](https://github.com/louisBerlin/Cheat_Sheet/blob/main/Java/Data.2-%3E%20Variable%20BigDecimal.md)
+- [Data.3-> Array and ArrayList.md](https://github.com/louisBerlin/Cheat_Sheet/blob/main/Java/Data.3-%3E%20Array%20and%20ArrayList.md)
+- [Data.4-> Set and HashMap.md](https://github.com/louisBerlin/Cheat_Sheet/blob/main/Java/Data.4-%3E%20Set%20and%20HashMap.md)
+- [Data.5-> Date and Time.md](https://github.com/louisBerlin/Cheat_Sheet/blob/main/Java/Data.5-%3E%20Date%20and%20Time.md)
+- [Data.6-> Optional.md](https://github.com/louisBerlin/Cheat_Sheet/blob/main/Java/Data.6-%3E%20Optional.md)
+- [Data.7-> Streams.md](https://github.com/louisBerlin/Cheat_Sheet/blob/main/Java/Data.7-%3E%20Streams.md)
 - [Exception.md]
 - [OO.1-> Class and Object.md]
 - [OO.2-> Interface.md]
