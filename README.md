@@ -17,7 +17,7 @@
 
 ## Java
 
-- [Data.1-> Variable](https://github.com/louisBerlin/Cheat_Sheet/blob/main/Java/Data.1-%3E%20Variable)
+- [Data.1-> Variable](https://github.com/louisBerlin/Cheat_Sheet/blob/main/Java/Data.1-%3E%20Variable.md)
 - [Data.2-> Variable BigDecimal.md](https://github.com/louisBerlin/Cheat_Sheet/blob/main/Java/Data.2-%3E%20Variable%20BigDecimal.md)
 - [Data.3-> Array and ArrayList.md](https://github.com/louisBerlin/Cheat_Sheet/blob/main/Java/Data.3-%3E%20Array%20and%20ArrayList.md)
 - [Data.4-> Set and HashMap.md](https://github.com/louisBerlin/Cheat_Sheet/blob/main/Java/Data.4-%3E%20Set%20and%20HashMap.md)
@@ -33,8 +33,7 @@
 - [Test.1-> JUnit 5 .md]
 - [Test.2-> Parametrisierte_Test]
 
- 
-hello
+
 
 
 - [OO_Class_and_Object](https://github.com/louisBerlin/Java_Cheat_Sheet/blob/main/Java/OO_Class_and_Object.md)
