@@ -17,6 +17,7 @@ ___
 ___
 
 ```javascript
+Syntax -> let <variableName>: <type> = <intitial value>;
 const number = 42
 const string = "hello"
 const boolean = true
