@@ -3,6 +3,13 @@
 > 2024
 
 ___
+### Console.log()   
+___
+```javascript
+console.log("test^^")
+```
+
+___
 ### Variable declaration   
 ___
 ```javascript
