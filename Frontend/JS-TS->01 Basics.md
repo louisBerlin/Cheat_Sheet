@@ -35,6 +35,16 @@ undefinedExample = "string"
 const list = ["hello","hello"]
 ```
 
+___
+### Variable -> list 
+___
+
+```javascript
+let sportsTwo: string[] = ["Golf","Cricket","Tennis"];
+sportsTwo.push("Baseball");
+sportsTwo.push("Football");
+```
+
 
 ___
 ### Arithmetic operator 
